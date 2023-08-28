@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.input {
+  font-family: "Black Ops One", cursive;
+  height: 30px;
+  max-width: 400px;
+  width: 100%;
+  padding: 3px;
+  border-radius: 8px;
+  margin: 20px 0;
+  outline: none;
+  border: 5px solid black;
+}
+h1 {
+  font-size: 60px;
+  font-family: "Black Ops One", cursive;
+}
+
+a {
+  font-family: "Black Ops One", cursive;
+  font-size: 20px;
+}
